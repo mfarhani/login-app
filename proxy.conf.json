@@ -1,0 +1,8 @@
+{
+    "/token": {
+        "target": "https://api.ebtekargheshm.ir",
+        "secure": false,
+        "changeOrigin": true,
+        "logLeve": "debug"
+    }
+}
